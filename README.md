@@ -4,14 +4,14 @@
 
 `Python` · `C#` · `PowerShell` · `JavaScript` · `PHP` · `SQL` · `Windows/Linux`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan_Carnline-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-carnline-b70420262/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan_Carnline-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-carnline/)
 [![GitHub](https://img.shields.io/badge/GitHub-M1ster--J-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/M1ster-J)
 
 ---
 
 ## Featured Projects
 
-### [Market Probability Model](https://github.com/M1ster-J/market-probability-model)
+### [Market Probability Model](https://github.com/M1ster-J/Market-Probability-Model)
 
 A Python-based live market-data and execution-intent runtime developed around one principle:
 
